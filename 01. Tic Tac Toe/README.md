@@ -3,6 +3,10 @@
 
 Welcome to your **Tic Tac Toe** game! This guide will walk you through the basics of the game structure, styling, and JavaScript logic, providing a fun way to get familiar with front-end development.
 
+## 🖼️ Screenshot
+
+![image](https://github.com/user-attachments/assets/236d30da-999f-4068-9f47-6221db82462d)
+
 ## 🚀 Getting Started
 
 This Tic Tac Toe game is built using basic **HTML**, **CSS**, and **JavaScript**. It’s a great beginner project to understand DOM manipulation, event handling, and dynamic styling.
