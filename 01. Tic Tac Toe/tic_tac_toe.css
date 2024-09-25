@@ -1,0 +1,51 @@
+body {
+    background-color: #cef3c4;
+    font-family: Arial, sans-serif;
+}
+
+.jumbotron {
+    background-color: #88d4ca;
+    color: #4c3642;
+    text-align: center;
+}
+
+.centered-table {
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+}
+
+td {
+    height: 150px;
+    width: 150px;
+    text-align: center;
+    border: 5px solid #344771;
+    font-size: 100px;
+    cursor: pointer;
+    color: #344771;
+    background-color: #cef3c4;
+}
+
+td:hover {
+    background-color: #88d4ca;
+}
+
+button {
+    background-color: #344771;
+    border-color: #59709c;
+}
+
+button:hover {
+    background-color: #59709c;
+    border-color: #344771;
+}
+
+.scoreboard {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.scoreboard p {
+    font-size: 24px;
+    color: #4c3642;
+}
